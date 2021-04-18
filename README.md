@@ -29,10 +29,10 @@ final price 1770 lv
 
 Параметър | Изискване | Конфигурация
 ------------ | -------------| -------------
-CPU | intel or amd 64 bit; 2 GHz or faster with SSE 4.2 or later | Intel Core i7-9700F (3.0GHz) - 550 lv
+CPU | intel or amd 64 bit; 2 GHz or faster | Intel Core i7-9700F (3.0GHz) - 550 lv
 RAM | 16 RAM | 16GB DDR4 2666 GOODRAM - 187 lv
 GPU | 4 gb graphic mem | Gainward GeForce GTX 1660 Super 6GB Ghost OC - 1399 lv
 Disk | 4 GB | 256GB SSD GIGABYTE - 93 lv
-Other | motherboard, Win 10 (64 bit), v.1809 or later, power | GIGABYTE H310M H 2.0 - 130 lv, WIN 10 pro x64 - 390 lv, 500W Thermatake Toughpower GX1 - 170 lv
+Other | motherboard, Win 10 (64 bit), v.1703 or later, power | GIGABYTE H310M H 2.0 - 130 lv, WIN 10 pro x64 - 390 lv, 500W Thermatake Toughpower GX1 - 170 lv
 
 final price 2919 lv
